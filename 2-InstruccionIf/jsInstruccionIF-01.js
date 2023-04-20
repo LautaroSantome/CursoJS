@@ -1,6 +1,11 @@
-function mostrar()
-{
+function mostrar() {
+	// == igual, != distinto, <meno, >mayor  
 	
-	alert("ok");
+  let edad;
+
+  edad = parseInt(document.getElementById("txtEdad").value);
+if(edad==15 )
+alert("Niña Bonita")
+
 
 }
