@@ -5,4 +5,5 @@ function mostrar() {
   if (edad >= 18) {
     alert("es mayor de edad");
   } else{
-   alert("sos menor, anda a tu casa"); }
+   alert("sos menor, anda a tu casa");}
+  }

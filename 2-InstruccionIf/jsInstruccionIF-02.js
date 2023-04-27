@@ -6,8 +6,7 @@ function mostrar()
   if(edad >=18 ) [
   alert("es mayor de edad")]
    
-  if(edad >=50) [
-  alert("sos un viejo")]
+  
 	
 	
 
